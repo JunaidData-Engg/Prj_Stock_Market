@@ -1,0 +1,26 @@
+[
+    {
+        "src_url" : "JunaidData-Engg/Prj_Stock_Market/blob/main/Datasets/company_overview.csv",
+        "src_sink_file" : "company_overview.csv"
+    },
+    
+    {
+        "src_url" : "JunaidData-Engg/Prj_Stock_Market/blob/main/Datasets/financials.csv",
+        "src_sink_file" : "financials.csv"
+    },
+
+    {
+        "src_url" : "JunaidData-Engg/Prj_Stock_Market/blob/main/Datasets/market_news_sentiment.csv",
+        "src_sink_file" : "market_news_sentiment.csv"
+    },
+
+    {
+        "src_url" : "JunaidData-Engg/Prj_Stock_Market/blob/main/Datasets/stock_prices.csv",
+        "src_sink_file" : "stock_prices.csv"
+    },
+
+    {
+        "src_url" : "JunaidData-Engg/Prj_Stock_Market/blob/main/Datasets/technical_indicators.csv",
+        "src_sink_file" : "technical_indicators.csv"
+    }
+]
